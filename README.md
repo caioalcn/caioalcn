@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, there. I'm Caio :snowflake:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioalcntara@gmail.com)](mailto:caioalcntara@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caioalcn)](https://t.me/caioalcn)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-alcantara/)](https://www.linkedin.com/in/caio-alcantara/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/caiowk.svg?style=social)](https://twitter.com/caiowk)
 
-<!--
-**caioalcn/caioalcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a developer working in São Paulo, Brasil.**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+-  **Working :** iOS-App :iphone:
+-  **Learning :** Backend Development :zap:
+-  **Hobbies :** Music :headphones: | Games :space_invader:
+-  **Ask me about :** Anything!, I'd be glad to help you :v:
+-  **Fun fact :** I love Canada :maple_leaf::heart: 
+-  **Pronouns :** He/Him/His :smiley:
