@@ -12,5 +12,4 @@
 -  **Learning :** Backend Development :zap:
 -  **Hobbies :** Music :headphones: | Games :space_invader:
 -  **Ask me about :** Anything!, I'd be glad to help you :v:
--  **Fun fact :** I love Canada :maple_leaf::heart: 
--  **Pronouns :** He/Him/His :smiley:
+-  **Fun fact :** I love Canada :maple_leaf::heart:
