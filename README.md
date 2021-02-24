@@ -9,7 +9,7 @@
 
 ### About Me
 -  **Working :** iOS-App :iphone:
--  **Learning :** Backend Development :zap:
--  **Hobbies :** Music :headphones: | Games :space_invader:
+-  **Learning :** Backend Development with .Net Core :zap:
+-  **Hobbies :** Music :headphones: | Games :space_invader: | Basketball :basketball:
 -  **Ask me about :** Anything!, I'd be glad to help you :v:
--  **Fun fact :** I love Canada :maple_leaf::heart:
+-  **Fun fact :** I :heart: Canada :maple_leaf:
