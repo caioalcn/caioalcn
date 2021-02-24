@@ -8,7 +8,7 @@
 **I'm a developer working in São Paulo, Brasil.**
 
 ### About Me
--  **Working :** iOS-App :iphone:
+-  **Working :** iOS-App with Swift :iphone:
 -  **Learning :** Backend Development with .Net Core :zap:
 -  **Hobbies :** Music :headphones: | Games :space_invader: | Basketball :basketball:
 -  **Ask me about :** Anything!, I'd be glad to help you :v:
