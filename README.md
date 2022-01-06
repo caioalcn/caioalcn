@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioalcntara@gmail.com)](mailto:caioalcntara@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caioalcn)](https://t.me/caioalcn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-alcantara/)](https://www.linkedin.com/in/caio-alcantara/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/caiowk.svg?style=social)](https://twitter.com/caiowk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/caiowk.svg?style=social)](https://twitter.com/caioalcn)
 
 **I'm a developer working in São Paulo, Brasil.**
 
