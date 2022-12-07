@@ -11,5 +11,5 @@
 -  **Working :** Backend Development with .Net Core :zap: | iOS Development with Swift :iphone: 
 -  **Learning :** Game Dev with Godot Engine :video_game:
 -  **Hobbies :** Music :headphones: | Games :space_invader: | Basketball :basketball:
--  **Ask me about :** Anything!, I'd be glad to help you :v:
+-  **Ask me about :** Anything! I'd be glad to help you :v:
 -  **Fun fact :** I :heart: Canada :maple_leaf:
