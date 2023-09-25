@@ -8,7 +8,7 @@
 **I'm a developer working in São Paulo, Brasil.**
 
 ### About Me
--  **Working :** Backend Development with .Net Core :zap: | iOS Development with Swift :iphone: 
+-  **Working :** Game Developer :video_game: | Backend Development with .Net Core :zap: 
 -  **Learning :** Game Dev with Godot Engine :video_game:
 -  **Hobbies :** Music :headphones: | Games :space_invader: | Basketball :basketball:
 -  **Ask me about :** Anything! I'd be glad to help you :v:
