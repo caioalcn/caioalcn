@@ -9,7 +9,7 @@
 
 ### About Me
 -  **Working :** Game Developer :video_game: | Backend Development with .Net Core :zap: 
--  **Learning :** Game Dev with Godot Engine :video_game:
+-  **Learning :** Making games with Godot :video_game:
 -  **Hobbies :** Music :headphones: | Games :space_invader: | Basketball :basketball:
 -  **Ask me about :** Anything! I'd be glad to help you :v:
 -  **Fun fact :** I :heart: Canada :maple_leaf:
